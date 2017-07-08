@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TestSpringMVCmybatismysql"
+  id="myeclipse.1452239215308"
+  context-root="/TestSpringMVCmybatismysql"
+  j2ee-spec="5.0"
+  archive="TestSpringMVCmybatismysql.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
